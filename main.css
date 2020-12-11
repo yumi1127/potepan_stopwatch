@@ -1,0 +1,66 @@
+#stopwatch{
+  line-height: 0px;
+  margin: 0px;
+}
+#content_stopwatch{
+  text-align: center;
+}
+#block_title_stopwatch{
+
+}
+#block_img_text_title{
+  height: 100px;
+}
+#img_bird{
+  display: inline-block;
+  width: 100px;
+  height: auto;
+}
+#title{
+  display: inline-block;
+  font-family: こまどり;
+  font-size: 50px;
+  margin: 0px;
+  position: relative;
+  bottom: 30px;
+}
+#img_clock{
+  display: inline-block;
+  width: 100px;
+  height: auto;
+}
+#block_border_stopwatch{
+
+}
+#block_border{
+
+}
+#border{
+
+}
+#block_timer_stopwatch{
+}
+#block_timer{
+
+}
+#timer{
+  font-family: Hattori Hanzo;
+  font-size: 180px;
+  margin-top: 150px;
+  margin-bottom: 100px;
+}
+#block_each_button_stopwatch{
+
+}
+#block_each_button{
+
+}
+
+.button{
+  width: 100px;
+  height: 50px;
+  background-color: rgb(247,147,20);
+  border-radius: 20px;
+  border-color: rgb(255,204,51);
+  margin: 20px 10px 10px 10px;
+}
